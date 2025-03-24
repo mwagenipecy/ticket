@@ -1,0 +1,290 @@
+ASSET ACCOUNTS 1000 - 1999
+
+1000 CASH AND EQUIVALENTS
+
+1009 - Suspense Cash in Bank A
+1010 - Cash in Bank A
+1020 - Petty Cash
+1025 - Strong  Room Cash
+1030 - Cash in Bank B - Operational Activities
+1040 - Cash in Bank C - Lending
+1050 - Cash in Bank D - Savings
+
+1100 SHORT-TERM ASSETS
+
+1110 - Short-Term Investments
+
+1200 TOTAL LOANS
+
+1210 - Type A Loans
+1220 - Type B Loans
+1240 - Restructured Loans
+
+1300 LOAN LOSS RESERVES
+
+1310 - Loan Loss Reserves
+
+1400 INTEREST AND FEES RECEIVABLES
+
+1410 - Expected Profit from New Loans
+1420 - Expected Profit from Non-Performing Loans (NPLs)
+1430 - Expected Profit from Restructured Loans
+1440 - Expected Receivables from Other Loan Fees
+
+1500 ACCOUNTS RECEIVABLE
+
+1510 - Receivables Accounts
+1520 - Advance Travel Payments
+1525 - Advance Payments to Employees
+1530 - Other Receivables
+
+1600 LONG-TERM ASSETS
+
+1610 - Asset A
+1620 - Asset B
+
+1700 PROPERTY AND EQUIPMENT
+
+1710 - Buildings
+1712 - Depreciation - Buildings
+1714 - Land
+1716 - Equipment
+1718 - Depreciation - Equipment
+1720 - Vehicles
+1722 - Depreciation - Vehicles
+1724 - Leased Rental Property
+1726 - Depreciation - Leased Property
+1728 - Other Assets and Equipment
+1730 - Other Depreciation
+
+LIABILITY ACCOUNTS 2000 - 2999
+
+2000 CREDITORS
+
+2010 - Trade Creditors
+2020 - Employee Debts
+2030 - Member Debts
+2030 - Other Debts
+2003 - Mandatory Shares in Suspense
+
+2100 INTEREST PAYABLE
+
+2110 - Interest on External Loans
+2120 - Interest on Member Savings
+2130 - Interest on Member Deposits
+2150 - Other Interest Payables
+
+2200 MEMBER DEPOSITS AND SAVINGS
+
+2210 - Compulsory Savings
+2220 - Voluntary Savings
+2230 - Term Deposits
+2240 - Teller Accounts
+
+2300 SHORT-TERM LOANS
+
+2320 - Loans from Bank 1
+2322 - Loans from Bank 2
+2330 - Other Short-Term Loans
+2350 - Leasehold Payable
+
+2400 LONG-TERM LOANS
+
+2420 - Loans from Bank 1
+2422 - Loans from Bank 2
+2430 - Other Long-Term Loans
+2450 - Leasehold Payable
+
+2500 ACCRUED EXPENSES
+
+2510 - Salaries
+2520 - Payroll Taxes
+2530 - Other Benefits and Insurance
+2540 - Employee Leave
+2550 - Other Government Taxes
+2590 - Other Expenses
+
+2600 DEFERRED INCOME
+
+2610 - Deferred Interest/Profit
+2620 - Deferred Loan Fees
+2630 - Other Deferred Income
+
+
+2700 DEFERRED GRANTS
+
+2710 - Deferred Grant 1
+2712 - Deferred Grant 2
+
+CAPITAL ACCOUNTS 3000 - 3999
+
+3000 MEMBER SHARES
+
+3003 - Mandatory Shares
+3009 - Suspense Paid-Up Shares by Members
+3010 - Paid-Up Shares by Members
+3030 - Shares for Special Projects - Current Year
+3040 - Shares for Special Projects - Previous
+
+INCOME ACCOUNTS 4000 - 4999
+
+4000 - INTEREST INCOME
+4010 - Interest Income - Loans within Term
+4020 - Interest Income - Bad Loans
+4040 - Interest Income - Restructured Loans
+4100 - OTHER INCOME FROM LOANS
+4110 - Income from Fines or Penalties
+4120 - Income from Loan Fees
+4130 - Income from Other Loan Fees
+4200 - FEE INCOME
+4209 - Suspense Membership Fees
+4210 - Membership Fees
+4215 - Transaction Charges
+4220 - Other Fees
+4300 - INCOME FROM ECONOMIC ACTIVITIES
+4310 - Profit from Banks (FDR)
+4320 - Profit from Government Bonds
+4330 - Profit from Other Investments
+4400 - GRANTS
+4410 - Conditional Grants - Government 1
+4420 - Conditional Grants - Private Institution 2
+4430 - Unconditional Grants
+4440 - Contributions from Individuals
+4450 - Other Contributions
+4500 - OTHER INCOME
+4510 - Income from Written-Off Loans
+4520 - Other Association Income
+
+EXPENSE ACCOUNTS 5000 - 5999
+
+5000 - FINANCIAL EXPENSES
+5010 - Bank Charges
+5020 - Interest on External Loans
+5025 - Interest on Member Deposit
+5030 - Interest on Member Savings
+5035 - Interest on Member Voluntary Shares
+5040 - Financial Insurance
+5050 - Other Financial Expenses
+5100 - PERSONNEL EXPENSES
+5110 - Staff Salaries
+5112 - Social Security Contributions
+5114 - Payroll Taxes
+5116 - Staff Training
+5118 - Leave and Transfer
+5120 - Accrued Salary
+5122 - Internal Travel Expenses
+5124 - Back Pay
+5126 - Out of Hours Payments
+5128 - Employee Incentives
+5130 - Responsibility Allowance
+5132 - Housing Allowance
+5134 - Transport Allowance
+5136 - Medical Allowance
+5138 - Food Allowance
+5140 - SDL
+5142 - WCF
+5144 - Leave
+5146 - Sick Leave
+5148 - Other Benefits
+
+5200 - ADMINISTRATIVE EXPENSES
+
+5210 - Stationery Expenses
+5212 - Committee Meeting Expenses
+5214 - Water and Electricity
+5216 - Various Contributions - Social
+5218 - Annual General Meeting Expenses
+5220 - Board Meeting Expenses
+5222 - Allowances for Sustenance
+5224 - Cleaning and Security
+5226 - Education and Training for Management, Committees, and Board
+5228 - Renovations
+5230 - Welcoming Costs
+5232 - Management Meetings
+5234 - Employee Welfare
+5236 - Vehicle Licensing and Registration
+5238 - Insurance Costs
+5240 - Fuel and Maintenance
+5242 - Transportation Costs
+5244 - Cooperative Events (ICUD, SUD, ACCOSCA)
+5246 - Postal, Telephone, Network, and Advertising
+5248 - Traveling Expenses for Temporary Workers
+
+5250 - Computer Maintenance
+5252 - Laborer Costs
+5256 - Other Expenses
+
+5300 - BUSINESS EXPENSES
+
+5310 - Registrar's Fund
+5312 - External Audit Fees
+5314 - SCCULT Membership Fee
+5316 - Professional Consultancy
+5318 - Various Contributions
+5320 - Land and Building Taxes
+5322 - Intellectual Property Valuation Costs
+5324 - Management and Monitoring
+5326 - Financial Insurance
+5328 - Other Expenses
+
+5400 - EQUIPMENT EXPENSES
+
+5410 - Equipment Rentals
+5420 - Equipment Maintenance
+
+5500 - OTHER EXPENSES
+
+5510 - Bad Loan Write-Offs
+
+5600 - OFFICE EXPENSES
+
+5610 - Telephone
+5612 - Postal
+5614 - Printing
+5616 - Other Office Expenses
+5618 - Renovation Costs
+5620 - Cleaning Costs
+
+5700 - RENT EXPENSES
+
+5710 - Rent Payments
+5720 - Utilities
+5730 - Maintenance
+
+5800 - TRAVEL EXPENSES
+
+5810 - Air Travel
+5820 - Bus Travel
+5830 - Personal Vehicle Usage Expenses
+5840 - Other Travel Expenses
+5850 - Hotel Expenses
+5860 - Food Expenses
+5870 - Freight Charges
+5880 - Other Charges
+
+5900 - SYSTEM EXPENSES
+
+5910 - System Installation and Acquisition Costs
+5920 - Annual License Fees
+5920 - Technical Support Costs
+5930 - Other Expenses
+
+6000 - EDUCATION AND TRAINING EXPENSES
+
+6010 - Staff Training
+6020 - Member Education
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
